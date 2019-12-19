@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "For The Web",
+"productVersion": "0.1",
+"dataUrl": "webbuild_parksoha.data.unityweb",
+"wasmCodeUrl": "webbuild_parksoha.wasm.code.unityweb",
+"wasmFrameworkUrl": "webbuild_parksoha.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.9f1"
+}
